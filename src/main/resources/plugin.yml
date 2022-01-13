@@ -5,3 +5,4 @@ api-version: 1.18
 authors: [ RedoC ]
 description: MY PLAYGROUND
 website: github.com/RedoC-github
+depend: [ ProtocolLib ]
