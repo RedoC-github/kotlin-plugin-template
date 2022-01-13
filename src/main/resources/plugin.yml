@@ -1,8 +1,8 @@
-name: Playground
+name: 
 version: '${version}'
-main: com.redoc.playground.Playground
+main: 
 api-version: 1.18
 authors: [ RedoC ]
-description: MY PLAYGROUND
+description: 
 website: github.com/RedoC-github
 depend: [ ProtocolLib ]
