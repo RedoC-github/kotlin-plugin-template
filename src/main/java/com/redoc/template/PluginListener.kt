@@ -1,4 +1,4 @@
-package com.redoc.playground
+package com.redoc.template
 
 import org.bukkit.ChatColor
 import org.bukkit.event.EventHandler
